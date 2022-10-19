@@ -19,7 +19,7 @@
 kullanıcılar = {
    "osman": { "age":26,
               "adres":"Bursa",
-              "e-posta":"nrees@gmail.com",
+              "e-posta":"m",
               "telefon":123213213,
               "roles":["admin","user"]
                } ,
@@ -27,7 +27,7 @@ kullanıcılar = {
             "age": 14,
             "adres":"Mudanya",
             "roles":["user"],
-            "eposta":"kerim@gmail.com",
+            "eposta":"",
             "tel":21321321
     }              
               
